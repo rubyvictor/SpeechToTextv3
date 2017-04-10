@@ -1,0 +1,6 @@
+framework module Pods_SpeechToTextv3 {
+  umbrella header "Pods-SpeechToTextv3-umbrella.h"
+
+  export *
+  module * { export * }
+}
